@@ -1,5 +1,5 @@
 # LDTS_<1207>
-Blackjack game
+LDTS Project - Blackjack game
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
