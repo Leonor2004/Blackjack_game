@@ -1,4 +1,22 @@
-## LDTS_<1207> - BLACKJACK
+# LDTS_<1207>
+Blackjack game
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
+- **Project name:** LDTS_L12GR07 - Blackjack
+- **Short description:** Blackjack game
+- **Environment:** Windows/Unix console
+- **Tools:** Java
+- **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
+- **Course:** [LDTS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520319) (Software Design and Testing Laboratory)
+- **Project grade:** 17,1
+- **Group members:**
+ - Ana Filipa Geraldes (up202208030@up.pt), 
+ - Filipa Fidalgo (up202208039@up.pt),
+ - Leonor Couto (up202205796@up.pt)
+
+--- 
 
 ### GAME DESCRIPTION
 
