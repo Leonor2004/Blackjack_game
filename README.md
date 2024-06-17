@@ -10,7 +10,7 @@ LDTS Project - Blackjack game
 - **Tools:** Java
 - **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
 - **Course:** [LDTS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520319) (Software Design and Testing Laboratory)
-- **Project grade:** 17,1
+- **Project grade:** 17.1
 - **Group members:**
  - Ana Filipa Geraldes (up202208030@up.pt), 
  - Filipa Fidalgo (up202208039@up.pt),
