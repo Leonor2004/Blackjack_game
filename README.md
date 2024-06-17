@@ -14,7 +14,7 @@ LDTS Project - Blackjack game
 - **Group members:**
  - Ana Filipa Geraldes (up202208030@up.pt), 
  - Filipa Fidalgo (up202208039@up.pt),
- - Leonor Couto (up202205796@up.pt)
+ - Leonor Couto (up202205796@up.pt).
 
 --- 
 
